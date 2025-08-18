@@ -14,7 +14,7 @@ const config = {
     "entryFormCtaText": "Claim My Free Listing Package!",
     "name": "Vellore Village Ultimate Listing Experience",
     "successModalHeaderText": "You’re One Step Closer!",
-    "successModalMainMessage": "Your entry for the <strong>Vellore Village Ultimate Listing Experience</strong> is confirmed. The random draw happens September 30, 2025. Watch your email—Shar or Oudi from Sky Group will contact all winners. Good luck!",
+    "successModalMainMessage": "Your entry for the <strong>Vellore Village Ultimate Listing Experience</strong> is confirmed. The random draw happens October 20th, 2025. Watch your email—Shar or Oudi from Sky Group will contact all winners. Good luck!",
     "successModalEmailPrompt": "Keep an eye on your inbox for updates from Sky Group!"
   },
   "settings": {
@@ -163,7 +163,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755537039113_0",
+      "id": "q_auto_1755537110955_0",
       "questionText": "Are you currently a homeowner in Vellore Village?",
       "options": [
         {
@@ -177,7 +177,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537039113_1",
+      "id": "q_auto_1755537110955_1",
       "questionText": "Are you planning to sell your home in the next 18 months?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537039114_2",
+      "id": "q_auto_1755537110955_2",
       "questionText": "What is your biggest worry about selling your home?",
       "options": [
         {
@@ -217,7 +217,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537039114_3",
+      "id": "q_auto_1755537110955_3",
       "questionText": "What is your ideal selling timeline?",
       "options": [
         {
@@ -239,7 +239,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537039114_4",
+      "id": "q_auto_1755537110955_4",
       "questionText": "How do you typically enhance the appeal of your home's exterior for the enjoyment of your neighborhood?",
       "options": [
         {
@@ -261,7 +261,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537039114_5",
+      "id": "q_auto_1755537110955_5",
       "questionText": "What motivates you most when considering improvements to your home?",
       "options": [
         {
@@ -283,7 +283,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537039114_6",
+      "id": "q_auto_1755537110955_6",
       "questionText": "How frequently do you engage with local community events or neighborhood associations?",
       "options": [
         {
@@ -305,7 +305,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537039114_7",
+      "id": "q_auto_1755537110955_7",
       "questionText": "Which of the following best describes your interest in home decor and style trends?",
       "options": [
         {
