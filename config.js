@@ -26,8 +26,8 @@ const config = {
     "showCountdownInHero": true,
     "theme": "dark",
     "primaryColorOverride": "",
-    "ghlWebhookUrl": "",
-    "facebookPixelId": "1057475448873422",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/XJJFJP9sLnGUcLF1yfop/webhook-trigger/D7wvYvKJ8DURX1ECSmjG",
+    "facebookPixelId": "380781217326789",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
@@ -163,7 +163,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755537148994_0",
+      "id": "q_auto_1755631135972_0",
       "questionText": "Are you currently a homeowner in Vellore Village?",
       "options": [
         {
@@ -177,7 +177,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537148994_1",
+      "id": "q_auto_1755631135972_1",
       "questionText": "Are you planning to sell your home in the next 18 months?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537148994_2",
+      "id": "q_auto_1755631135972_2",
       "questionText": "What is your biggest worry about selling your home?",
       "options": [
         {
@@ -217,7 +217,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537148994_3",
+      "id": "q_auto_1755631135972_3",
       "questionText": "What is your ideal selling timeline?",
       "options": [
         {
@@ -239,7 +239,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537148994_4",
+      "id": "q_auto_1755631135972_4",
       "questionText": "How do you typically enhance the appeal of your home's exterior for the enjoyment of your neighborhood?",
       "options": [
         {
@@ -261,7 +261,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537148994_5",
+      "id": "q_auto_1755631135972_5",
       "questionText": "What motivates you most when considering improvements to your home?",
       "options": [
         {
@@ -283,7 +283,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537148995_6",
+      "id": "q_auto_1755631135972_6",
       "questionText": "How frequently do you engage with local community events or neighborhood associations?",
       "options": [
         {
@@ -305,7 +305,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755537148995_7",
+      "id": "q_auto_1755631135972_7",
       "questionText": "Which of the following best describes your interest in home decor and style trends?",
       "options": [
         {
@@ -366,6 +366,6 @@ const config = {
     "repoUrl": "https://github.com/arslvn93/Giveaway-993",
     "netlifyUrl": "http://Giveaway-993.netlify.app",
     "netlifyId": "",
-    "tag": "Vellore Village Listing Giveaway"
+    "tag": "Lead | Ultimate Listing Experience"
   }
 };
