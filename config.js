@@ -163,7 +163,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755631408479_0",
+      "id": "q_auto_1755631511051_0",
       "questionText": "Are you currently a homeowner in Vellore Village?",
       "options": [
         {
@@ -177,7 +177,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631408479_1",
+      "id": "q_auto_1755631511051_1",
       "questionText": "Are you planning to sell your home in the next 18 months?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631408479_2",
+      "id": "q_auto_1755631511051_2",
       "questionText": "What is your biggest worry about selling your home?",
       "options": [
         {
@@ -217,7 +217,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631408479_3",
+      "id": "q_auto_1755631511051_3",
       "questionText": "What is your ideal selling timeline?",
       "options": [
         {
@@ -239,7 +239,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631408479_4",
+      "id": "q_auto_1755631511051_4",
       "questionText": "How do you typically enhance the appeal of your home's exterior for the enjoyment of your neighborhood?",
       "options": [
         {
@@ -261,7 +261,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631408479_5",
+      "id": "q_auto_1755631511051_5",
       "questionText": "What motivates you most when considering improvements to your home?",
       "options": [
         {
@@ -283,7 +283,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631408479_6",
+      "id": "q_auto_1755631511051_6",
       "questionText": "How frequently do you engage with local community events or neighborhood associations?",
       "options": [
         {
@@ -305,7 +305,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631408479_7",
+      "id": "q_auto_1755631511051_7",
       "questionText": "Which of the following best describes your interest in home decor and style trends?",
       "options": [
         {
@@ -345,8 +345,8 @@ const config = {
       "instagram": "https://www.instagram.com/theskygroup_re"
     },
     "agentContact": {
-      "name": "Shar Banifatemi",
-      "title": "Realtor, Sky Group",
+      "name": "The Sky Group",
+      "title": "Real Estate Team",
       "phone": "(289) 210-5250",
       "email": "info@theskygroup.ca"
     },
@@ -355,7 +355,7 @@ const config = {
     "secondaryLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066701131-HMSQC87ZI0P5A10TQREH/logo_black_bg.jpg?format=1000w",
     "secondaryLogoAlt": "Property.Ca Brokerage Logo",
     "organizerName": "Sky Group",
-    "brokerageName": "Real Broker LTD",
+    "brokerageName": "Property.Ca",
     "address": "36 Distillery Lane unit 500, Toronto, ON M5A3C4",
     "email": "shar@theskygroup.ca",
     "phone": "1 647 887 4996",
