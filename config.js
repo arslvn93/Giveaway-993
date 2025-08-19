@@ -163,7 +163,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1755631135972_0",
+      "id": "q_auto_1755631408479_0",
       "questionText": "Are you currently a homeowner in Vellore Village?",
       "options": [
         {
@@ -177,7 +177,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631135972_1",
+      "id": "q_auto_1755631408479_1",
       "questionText": "Are you planning to sell your home in the next 18 months?",
       "options": [
         {
@@ -195,7 +195,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631135972_2",
+      "id": "q_auto_1755631408479_2",
       "questionText": "What is your biggest worry about selling your home?",
       "options": [
         {
@@ -217,7 +217,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631135972_3",
+      "id": "q_auto_1755631408479_3",
       "questionText": "What is your ideal selling timeline?",
       "options": [
         {
@@ -239,7 +239,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631135972_4",
+      "id": "q_auto_1755631408479_4",
       "questionText": "How do you typically enhance the appeal of your home's exterior for the enjoyment of your neighborhood?",
       "options": [
         {
@@ -261,7 +261,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631135972_5",
+      "id": "q_auto_1755631408479_5",
       "questionText": "What motivates you most when considering improvements to your home?",
       "options": [
         {
@@ -283,7 +283,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631135972_6",
+      "id": "q_auto_1755631408479_6",
       "questionText": "How frequently do you engage with local community events or neighborhood associations?",
       "options": [
         {
@@ -305,7 +305,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1755631135972_7",
+      "id": "q_auto_1755631408479_7",
       "questionText": "Which of the following best describes your interest in home decor and style trends?",
       "options": [
         {
@@ -352,8 +352,8 @@ const config = {
     },
     "footerDisclaimer": "This giveaway is not affiliated with or sponsored by any real estate board. No purchase necessary. Winner selected randomly from eligible Vellore Village homeowners entered by October 15th, 2025. Must be owner-occupier to win. See privacy policy for details.",
     "organizerLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/07/SkyGroupLogo.png",
-    "secondaryLogoUrl": "https://theskygroup.ca/wp-content/uploads/2022/09/Brokeredby_Logo_White__Ontario_Small.png",
-    "secondaryLogoAlt": "Real Broker Ltd.",
+    "secondaryLogoUrl": "https://images.squarespace-cdn.com/content/v1/5f80c7c14e8fef5fc1fb9a3d/1604066701131-HMSQC87ZI0P5A10TQREH/logo_black_bg.jpg?format=1000w",
+    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
     "organizerName": "Sky Group",
     "brokerageName": "Real Broker LTD",
     "address": "36 Distillery Lane unit 500, Toronto, ON M5A3C4",
